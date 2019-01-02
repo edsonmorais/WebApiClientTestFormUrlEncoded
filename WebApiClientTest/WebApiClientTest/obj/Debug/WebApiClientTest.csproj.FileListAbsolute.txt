@@ -1,0 +1,13 @@
+C:\Users\edson.morais\Documents\Visual Studio 2017\Projects\WebApiClientTest\WebApiClientTest\bin\Debug\WebApiClientTest.exe.config
+C:\Users\edson.morais\Documents\Visual Studio 2017\Projects\WebApiClientTest\WebApiClientTest\bin\Debug\WebApiClientTest.exe
+C:\Users\edson.morais\Documents\Visual Studio 2017\Projects\WebApiClientTest\WebApiClientTest\bin\Debug\WebApiClientTest.pdb
+C:\Users\edson.morais\Documents\Visual Studio 2017\Projects\WebApiClientTest\WebApiClientTest\bin\Debug\RestSharp.dll
+C:\Users\edson.morais\Documents\Visual Studio 2017\Projects\WebApiClientTest\WebApiClientTest\bin\Debug\RestSharp.xml
+C:\Users\edson.morais\Documents\Visual Studio 2017\Projects\WebApiClientTest\WebApiClientTest\obj\Debug\WebApiClientTest.csprojAssemblyReference.cache
+C:\Users\edson.morais\Documents\Visual Studio 2017\Projects\WebApiClientTest\WebApiClientTest\obj\Debug\WebApiClientTest.csproj.CoreCompileInputs.cache
+C:\Users\edson.morais\Documents\Visual Studio 2017\Projects\WebApiClientTest\WebApiClientTest\obj\Debug\WebApiClientTest.csproj.CopyComplete
+C:\Users\edson.morais\Documents\Visual Studio 2017\Projects\WebApiClientTest\WebApiClientTest\obj\Debug\WebApiClientTest.exe
+C:\Users\edson.morais\Documents\Visual Studio 2017\Projects\WebApiClientTest\WebApiClientTest\obj\Debug\WebApiClientTest.pdb
+C:\Users\edson.morais\Documents\Visual Studio 2017\Projects\WebApiClientTest\WebApiClientTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\edson.morais\Documents\Visual Studio 2017\Projects\WebApiClientTest\WebApiClientTest\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\edson.morais\Documents\Visual Studio 2017\Projects\WebApiClientTest\WebApiClientTest\bin\Debug\Newtonsoft.Json.xml
